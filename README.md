@@ -1,4 +1,4 @@
 
-Step 1: change to directory "cd laravel-api-assignment"
-Step 2: "composer install"
-Step 3: "/route"
+Step 1: change to directory "cd laravel-api-assignment" <br>
+Step 2: "composer install" <br>
+Step 3: "/route" <br>
