@@ -19,4 +19,4 @@ Route::get('/', function () {
 });
 
 
-Route::get('/route/{id?}', 'App\Http\Controllers\MyController@show');
+Route::get('/records/{id?}', 'App\Http\Controllers\MyController@show');
